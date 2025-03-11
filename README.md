@@ -19,3 +19,6 @@ onecli crear
 onecli eliminar
 
 aun me falta poner editar pero ya estare actualizando
+
+Me basé en la guía de **roadmap.sh** para desarrollar este proyecto:  
+📖 [Personal Blog Project](https://roadmap.sh/projects/personal-blog)
